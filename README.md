@@ -1,0 +1,1 @@
+Technologies: PHP, CodeIgniter, Bootstrap, Dropzone, HTML, CSS.
