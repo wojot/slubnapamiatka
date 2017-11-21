@@ -1,10 +1,6 @@
 /user_guide/*
 /uploads/*
-/application/config_tkfotoart/config.php
-/application/config_tkfotoart/database.php
-/application/config/config.php
-/application/config/
-database.php
+/application/config_slubnapamiatka/*
 /20160806adrianagnieszka/*
 /agnieszkaadrian/*
 /aleksandrawojciech/*
